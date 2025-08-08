@@ -5,8 +5,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: #000;
-  color: #fff;
+  background: #fff;
+  color: #000;
   font-family: 'Helvetica Neue', Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -38,8 +38,8 @@ main {
 .player-embed {
   width: 100%;
   height: 150px;
-  border: 2px solid #fff;
-  background: #111;
+  border: 2px solid #000;
+  background: #fff;
 }
 
 footer {
